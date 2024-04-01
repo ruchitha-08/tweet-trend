@@ -34,7 +34,7 @@ environment {
                           "files": [
                             {
                               "pattern": "jarstaging/(*)",
-                              "target": "1-libs-release-local/{1}",
+                              "target": "valaxy-libs-release-local/{1}",
                               "flat": "false",
                               "props" : "${properties}",
                               "exclusions": [ "*.sha1", "*.md5"]
@@ -48,6 +48,7 @@ environment {
              }
         }   
     }
+
 }
 }
 
