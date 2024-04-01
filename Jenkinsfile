@@ -78,7 +78,7 @@ environment {
             echo '<--------------- Helm deploy Ends --------------->'
          }
        }
-     }
+    }
 
 }
 }
